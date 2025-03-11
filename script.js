@@ -7,5 +7,5 @@ function calcular()
   console.log("tensao="+tensao);
   console.log("corrente="+corrente);
   console.log("pot="+pot);
-  document.getElementById("pot").innerHTML= "pot="+pot+"(w)";
+  document.getElementById("pot").innerHTML= "potencia="+pot+"(W)";
 }
